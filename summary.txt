@@ -1,0 +1,12 @@
+Agile is a flexible, iterative approach to software development and project management focused on delivering value quickly, responding to changing requirements, and promoting close collaboration between team members and customers.
+
+Key Points of Agile
+Mindset & Methodology: Agile is both a way of thinking (mindset) and a set of practices (methodologies) designed for adaptability and customer satisfaction.
+
+Iterative & Incremental Development: Work is delivered in small, usable chunks (iterations or sprints), not all at once.
+
+Customer Collaboration: Agile emphasizes frequent feedback and involvement from customers or stakeholders at every stage.
+
+Responding to Change: Agile teams welcome evolving requirements, even late in development.
+
+Teamwork: Self-organizing, cross-functional teams work together, communicate openly, and make decisions collectively.
